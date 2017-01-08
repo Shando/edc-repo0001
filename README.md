@@ -1,11 +1,22 @@
-﻿![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuControlCenter/images/img_misc_cabinet.png)
+## emuDownloadCenter emulator & software repository.
 
-## REPO 0001 / EDC Emulator storage
-***
-emuDownloadCenter (EDC) is a program to download ROM emulators from internet.
-Mostly in depots where found emulators on the internet are stored.
+emuDownloadCenter (EDC) is a open-source central emulator download project, and can be used to download, install and configure emulators on the fly in a frontend.
+
+EDC is a side project of [emuControlCenter](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
+
 Author: Sebastiaan Ebeltjes, Deventer (Netherlands)
 
-EDC is part of emuControlCenter, homepage/download:
+### [**EDC WEBSITE**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki)
+***
+### Some advantages using EDC are:
+- Everyone can help collecting emulators & software for EDC, it's all open source!
 
-https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki
+- You can build an API to download and install emulators in a frontend!
+
+- No banners or any commercial defacing on the site!
+
+- No bandwith(costs) and good speed!
+
+- No file deposit site's or any broken links!
+
+- etc...
